@@ -1,0 +1,3 @@
+CURR_FILE_DIR=$(dirname "$0")
+cd $CURR_FILE_DIR
+export PYTHONPATH=$PWD/src:$PYTHONPATH
