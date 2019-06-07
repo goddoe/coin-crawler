@@ -1,5 +1,3 @@
-coin trader
-
 ## Set Temporal environments
 ```
 $ source path/to/virtualenv
